@@ -8,7 +8,7 @@ const poppins = Poppins({
   subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700", "800"],
 })
-
+ 
 export const metadata: Metadata = {
   title: "VyomGarud - Military-Grade UAV Systems",
   description: "Advanced drone systems for precision, surveillance, and autonomous missions",
