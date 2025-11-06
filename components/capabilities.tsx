@@ -3,7 +3,7 @@
 export default function Capabilities() {
   const capabilities = [
     {
-      title: "Autonomous AI Flight",
+      title: "Autonomous AI Flight", 
       description:
         "Self-adaptive flight algorithms with real-time threat detection, environment analysis, and autonomous decision-making powered by advanced ML models.",
       specs: ["Real-time Processing", "Threat Detection", "Autonomous Navigation"],
