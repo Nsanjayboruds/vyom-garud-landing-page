@@ -1,4 +1,4 @@
-# VyomGarud landing page 
+# VyomGarud landing page  
 
 # VyomGarud — Landing Page (v0) 
 
