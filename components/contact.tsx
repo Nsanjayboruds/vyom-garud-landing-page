@@ -41,7 +41,7 @@ export default function Contact() {
           {/* Name */}
           <div>
             <label htmlFor="name" className="block text-sm font-medium text-foreground mb-2">
-              Full Name
+              Full Name 
             </label>
             <input
               type="text"
